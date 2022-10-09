@@ -1,0 +1,43 @@
+.title{
+    justify-items: center;
+    position: absolute;
+    text-align: center;
+    
+   
+
+}
+
+.currentforecast{
+    flex-direction: row;
+    justify-content: flex-end;
+
+    
+}
+.forecast-title{
+flex-direction: row;
+justify-content: space-around;
+justify-content: flex-end;
+
+}
+.fivedayforecast{
+ flex-direction:row;
+ justify-content:center;
+ padding: 25px 10px 10px 25px;
+}
+.search{
+background-color: bisque;
+
+justify-content: space-around;
+
+padding: 25px 10px 10px 25px;
+
+
+
+}
+
+.forecast{
+    display: inline-block;
+    padding: 15 px 15 px;
+    justify-content:center;
+
+}
