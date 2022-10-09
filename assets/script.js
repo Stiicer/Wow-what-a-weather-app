@@ -14,6 +14,7 @@ var cityInput = localStorage.getItem("city");
 
 
 function getWeather(event){
+   
     let cityInput = search.value;
     
     localStorage.setItem("city",cityInput);
